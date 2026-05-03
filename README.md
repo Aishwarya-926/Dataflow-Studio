@@ -8,7 +8,7 @@
 It abstracts complex `pandas` and `scikit-learn` scripts into an intuitive, drag-and-drop node interface. Build pipelines, clean data, train models, and visualize results instantly without writing a single line of boilerplate code.
 
 ![DataFlow Studio Screenshot](screenshot.png) 
-*(Note: Add a screenshot of your app here!)*
+
 
 ## ✨ Features
 
